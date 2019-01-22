@@ -31,6 +31,6 @@ public class UDPReceive {
 
         //关闭socket对象
         socket.close();
-        System.out.println("asdf");
+        System.out.println("asddf");
     }
 }
